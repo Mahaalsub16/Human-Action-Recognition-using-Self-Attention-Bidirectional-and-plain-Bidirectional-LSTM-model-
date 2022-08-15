@@ -8,9 +8,13 @@ Language: Python
 DL framework: Keras and tensorflow 
 
 Used Action Recognition datasets: 
+
 .	UCF11
+
 .	UCFSports
+
 .	J-HMDBD
+
 
 1. The ipynb file CNN_features is used for extracting features from the frames using CNN
 2. The ipynb file LSTM_fainl is used for processing the Feature Set using BiLSTM/ Self Attention BiLSTM 
